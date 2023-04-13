@@ -5,5 +5,5 @@ Hey there! My name is Paola Castro, and I'm a recent graduate from Florida Inter
 This is a repository containing my recent work.
 
 
-## Portfolio Projects
+## Data Analysis Projects
 
